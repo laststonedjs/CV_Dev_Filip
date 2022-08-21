@@ -1,0 +1,54 @@
+@media print {
+  body {
+    margin: 0;
+    font-size: 56%;
+  }
+  .line {
+    display: none;
+  }
+  .delayContent{
+    margin-top: -40%;
+  }
+  hr {
+    color: #e5e5e5;
+  }
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+  h3{
+    margin-top: 5% ;
+  }
+  h4,
+  #email,
+  #phone,
+  #techList {
+    color: #000;
+  }
+  .img {
+    display: none;
+  }
+  .more {
+    display: block;
+  }
+  p {
+    color: #000;
+  }
+  @page {
+    size: auto;
+    margin: 0;
+  }
+  .delayContent {
+    margin-top: -2%;
+}
+#name{
+   font-weight: 250;
+    font-size: 150%;
+  }
+  .deleteLine > hr {
+    display: none;
+  }
+  .buttonGenerate {
+    display: none;
+  }
+}

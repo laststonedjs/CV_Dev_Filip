@@ -1,0 +1,72 @@
+{
+    "PersonCV": {
+        "name": "John D",
+        "jobTitle": "Creative designer",
+        "work": [
+            {
+                "workExperience": {
+                    "company": "Creative company",
+                    "position": "Graphic designer and photographer",
+                    "workDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                }
+            },
+            {
+                "workExperience": {
+                    "company": "Marketing and Creative business competition",
+                    "position": "Coordinator of competition",
+                    "workDescription": ""
+                }
+            },
+            {
+                "workExperience": {
+                    "company": "Google",
+                    "position": "UX/UI designer",
+                    "workDescription": ""
+                }
+            },
+            {
+                "workExperience": {
+                    "company": "Company in the LA - working in website industry",
+                    "position": "Graphic designer and photographer",
+                    "workDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magn, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                }
+            }
+        ],
+        "education": [
+            {
+                "educationInfo": {
+                    "institute": "MIT University in United States",
+                    "educationDescription": "Graphic and multimedia design",
+                    "educationMore": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magn officia deserunt mollit anim id est laborum."
+                }
+            },
+            {
+                "educationInfo": {
+                    "institute": "Digital Marketing Seminar",
+                    "educationDescription": "New York, US",
+                    "educationMore": ""
+                }
+            }
+        ],
+        "contact": {
+            "email": "",
+            "phone": ""
+        },
+        "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "technicalSkills": [
+            "technical skill 1",
+            "technical skill 2",
+            "technical skill 3"
+        ],
+        "softSkills": [
+            "soft skill 1",
+            "soft skill 2",
+            "soft skill 3"
+        ],
+        "languages": [
+            "language 1",
+            "language 2",
+            "language 3"
+        ],
+    }
+}
